@@ -100,16 +100,22 @@
 
 <style>
     @import "../../../static/reset.css";
-    body, html, #app {
+    body, html{
         width: 100%;
         height: 100%;
         margin: 0;
         padding: 0;
     }
-    .test-btn {
+    #app {
+        width: 80%;
+        height: 100%;
+        margin: 0 auto;
+    }
+      .test-btn {
         width: 100%;
         height: 30px;
         margin-bottom: 0.3rem;
-        margin-top: 0.3rem;
+        margin: 0.3rem auto;
+        background-color: powderblue;
     }
 </style>
