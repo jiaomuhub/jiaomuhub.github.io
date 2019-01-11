@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b10d2c86-4083-4680-8f49-2444e8359f44" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/css/swipe.49e9dac2c7c9449b278391080cd025ed.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/Scroller.fc2efd5a0100eefcf71e.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/Scroller.fc2efd5a0100eefcf71e.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/deleteSlider.4a81ce0768cfac43621c.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/deleteSlider.4a81ce0768cfac43621c.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/index.b8dc6bca13d71fbc27ac.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/index.b8dc6bca13d71fbc27ac.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/manifest.e54ef6454beefe17de22.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/manifest.e54ef6454beefe17de22.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/swipe.dea54a808c49ad18aae3.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/swipe.dea54a808c49ad18aae3.js.map" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/my-project/package-lock.json" afterPath="$PROJECT_DIR$/my-project/package-lock.json" />
-      <change beforePath="$PROJECT_DIR$/static/css/lazyLoad.83704cb658a98c3d2016d33c94e607b8.css" afterPath="" />
-    </list>
+    <list default="true" id="b10d2c86-4083-4680-8f49-2444e8359f44" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -111,12 +96,12 @@
       <option name="presentableId" value="Default" />
       <updated>1547169925183</updated>
       <workItem from="1547169926872" duration="126000" />
-      <workItem from="1547198022728" duration="1382000" />
+      <workItem from="1547198022728" duration="1461000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1508000" />
+    <option name="totallyTimeSpent" value="1587000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
